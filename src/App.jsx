@@ -2,6 +2,7 @@ import { Routes, Route, Navigate } from "react-router-dom";
 import Home from "./pages/Home";
 import Tasks from "./pages/Tasks";
 import ApiDemo from "./pages/ApiDemo";
+import React from 'react';
 
 function App() {
   return (
